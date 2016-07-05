@@ -1837,6 +1837,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) - Daniel Navarro
 * [learnR](https://github.com/yuanlisky/learnR) - (Work in Progress) - Kun Ren
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
+* [R Essentials](https://dzone.com/refcardz/r-essentials-1) - G. Ryan Spain
 * [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
 * [R language for Programmers](http://www.johndcook.com/blog/r_language_for_programmers/) - John D. Cook
 * [R packages](http://r-pkgs.had.co.nz) - Hadley Wickham
